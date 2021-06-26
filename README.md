@@ -48,3 +48,7 @@ window.$docsify = {
 Because I haven't find a smaller plugin to convert drawio File to HTML, so I use the js File from  [viewer.min.js](https://github.com/jgraph/drawio/blob/dev/src/main/webapp/js/viewer.min.js) to convert it.
 
 And I put this File to npm repo, so that I could use it by jsdelivr or other cdn.
+
+## If you like it!
+
+[Gitee 仓库](https://gitee.com/dongzhongzhidong/docsify-drawio)
